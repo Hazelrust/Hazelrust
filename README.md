@@ -1,9 +1,10 @@
 <h1 align="center">Hello 👋, I'm Stamp (Sirawich Kansanit)</h1>
+
 - 🔭 I’m currently working on camping_web (just a simple project for learning next.js
 
 - 🌱 I’m currently exploring the exciting world of **web and mobile development**. While I’m still learning, I’m passionate about building projects and gaining hands-on experience with modern technologies.
 
-### 💻 What I currently I Learning
+### 💻 What I currently Learning
 - **Frontend Development**: Next.js 15  
 - **Mobile Development**: Java for Android  
 - **Database Management**: MySQL / MongoDB
