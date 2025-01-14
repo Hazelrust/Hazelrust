@@ -1,6 +1,4 @@
-<h1 align="center">Hello 👋, I'm Stamp (Hazelrust)</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hazelrust&label=Profile%20views&color=0e75b6&style=flat" alt="hazelrust" /> </p>
-
+<h1 align="center">Hello 👋, I'm Stamp (Sirawich Kansanit)</h1>
 - 🔭 I’m currently working on **camping_web**
 
 - 🌱 I’m currently learning **Next.js 15**
