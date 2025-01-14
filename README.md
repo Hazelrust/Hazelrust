@@ -1,9 +1,19 @@
 <h1 align="center">Hello 👋, I'm Stamp (Sirawich Kansanit)</h1>
-- 🔭 I’m currently working on **camping_web**
+- 🔭 I’m currently working on camping_web (just a simple project for learning next.js
 
-- 🌱 I’m currently learning **Next.js 15**
+- 🌱 I’m currently exploring the exciting world of **web and mobile development**. While I’m still learning, I’m passionate about building projects and gaining hands-on experience with modern technologies.
+
+### 💻 What I’m Learning
+- **Frontend Development**: HTML, CSS, JavaScript, TypeScript, React, Next.js 15  
+- **Mobile Development**: Java for Android  
+- **Database Management**: ER Diagrams, Normalization, and working with tools like MS Access  / MySQL / MongoDB
 
 - ⚡ Fun fact **I have finance license, but I choose programming lol**
+
+### 🌱 Goals
+- Gain proficiency in React and Next.js for web development  
+- Build mobile applications with Java  
+- Strengthen my understanding of database management concepts  
 
 <p align="left">
 </p>
