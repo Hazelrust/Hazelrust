@@ -11,8 +11,9 @@
 <br>
 ⚡ Fun fact : I have finance license, but I choose programming lol
 
-### 👾 Skill
-**[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,figma)](https://skillicons.dev)**
+### 👾 Skill & Tools
+**[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs)](https://skillicons.dev)**
+**[![My Tools](https://skillicons.dev/icons?i=figma,vite)](https://skillicons.dev)**
 
 ### 🌱 Goals
 - Gain proficiency in React and Next.js for web development  
