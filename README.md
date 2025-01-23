@@ -5,11 +5,11 @@
 - 🌱 I’m currently exploring the exciting world of **web and mobile development**. While I’m still learning, I’m passionate about building projects and gaining hands-on experience with modern technologies.
 
 ### 💻 What I currently Learning
-- **Frontend Development**: Next.js 15  
-- **Mobile Development**: Java for Android  
-- **Database Management**: MySQL / MongoDB
+- **Frontend Development**: Next.js 15  ![ICON](https://skillicons.dev/icons?i=nextjs)
+- **Mobile Development**: Java for Android  ![ICON](https://skillicons.dev/icons?i=java&theme=light)
+- **Database Management**: MySQL / MongoDB ![ICON](https://skillicons.dev/icons?i=mysql,mongodb)
 <br>
-⚡ Fun fact : I have finance license, but I choose programming lol
+⚡ Fun fact : I have a finance license, but I choose programming lol
 
 ### 👾 Skill & Tools
 **[![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs)](https://skillicons.dev)**
