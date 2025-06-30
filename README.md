@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Stamp (Sirawich Kansanit)</h1>
 
-### 💻 What I currently Learning
+### 💻 What I currently creating
 - **Custom GPT** for Thammasat Library
 
 ### 👾 Skill & Tools
